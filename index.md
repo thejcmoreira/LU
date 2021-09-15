@@ -32,5 +32,8 @@ international relations due
 to previous projects.
 ```
 
-### CV 
-![1629309232061](https://user-images.githubusercontent.com/75580078/133401123-054c30b8-0733-4eb3-8830-934a5f86c678.jpg)
+---------------------------------------------------------------------------------------------------
+
+### CV:
+
+![1629309232061](https://user-images.githubusercontent.com/75580078/133401123-054c30b8-0733-4eb3-8830-934a5f86c678.jpg |width =2100)
