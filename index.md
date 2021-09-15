@@ -1,8 +1,8 @@
 ## Joel Moreira 
-Bioinformatics Student in Lund University
+Student in Master's Programme in Bioinformatics, Lund University
 
-[Linkedin](http://www.linkedin.com/in/joel-moreira-529b5a193)
-[Instagram](https://www.instagram.com/thejcmoreira/)
+[Linkedin](http://www.linkedin.com/in/joel-moreira-529b5a193) /
+[Instagram](https://www.instagram.com/thejcmoreira/) /
 [Instagram](https://www.facebook.com/JoelMoreira69/)
 
 ### About me
