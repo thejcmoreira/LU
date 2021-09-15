@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Joel Moreira 
+Bioinformatics Student in Lund University
 
-You can use the [editor on GitHub](https://github.com/thejcmoreira/LU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Link](www.linkedin.com/in/joel-moreira-529b5a193)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I currently have a Bsc Degree 
+in Medical Biotechnology 
+from the School of Health of Polytechnic 
+Institute of Porto, also enrolled in the 
+first year of the Master's Degree in 
+Bioinformatics and Computational Biology 
+at Faculty of Science - Oporto's University 
+and I'm currently studying Bioinformatics 
+(Master's Degree) in Lund University.
 
-- Bulleted
-- List
+My Bachelor's thesis was based
+on the Computational Chemistry area,
+concretely by searching for new drug 
+candidates with antibiofilm activity
+against bacteria using Molecular Docking 
+and Virtual Screening.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I consider having extraordinary 
+experiences in interpersonal and 
+international relations due
+to previous projects.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thejcmoreira/LU/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![1629309232061](https://user-images.githubusercontent.com/75580078/133401123-054c30b8-0733-4eb3-8830-934a5f86c678.jpg)
